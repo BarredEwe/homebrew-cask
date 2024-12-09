@@ -1,6 +1,6 @@
 cask "snowfall" do
     version '0.0.3'
-    sha256 "5b56a9ae73fde9176a3daddcf15dad86c264f81f"
+    sha256 "1db4c39e6138c3b500823aba5a1fb252b4f421bb6833417e37e7d29668322b21"
 
     name "Snowfall"
     desc "Simple interactive snowfall for Mac OS app written on SwiftUI and Metal."
