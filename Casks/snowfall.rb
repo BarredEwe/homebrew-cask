@@ -14,5 +14,5 @@ cask "snowfall" do
       system "xattr -d com.apple.quarantine #{appdir}/Snowfall.app"
     end
 
-    app "Snowfall/Snowfall.app"
+    app "Snowfall.app"
 end
